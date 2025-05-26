@@ -10,7 +10,7 @@ variable "description" {
 
 variable "subnet_ids" {
   type    = list(string)
-  default = ["subnet-0167d6771909791f3", "subnet-059617464cd5d9584"]
+  default = ["subnet-04ad28a69f0c1e0a0", "subnet-0cf36861e446930a3"]
 }
 
 variable "tags" {
